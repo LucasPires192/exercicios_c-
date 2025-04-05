@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\listaCarros\\listaCarros.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Desktop\\exercicios_csharp\\listaCarros\\listaCarros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\listaCarros\\listaCarros.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Desktop\\exercicios_csharp\\listaCarros\\listaCarros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\listaCarros\\listaCarros.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\exercicios_csharp\\listaCarros\\listaCarros.csproj",
         "projectName": "listaCarros",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\listaCarros\\listaCarros.csproj",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\exercicios_csharp\\listaCarros\\listaCarros.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\listaCarros\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\exercicios_csharp\\listaCarros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
